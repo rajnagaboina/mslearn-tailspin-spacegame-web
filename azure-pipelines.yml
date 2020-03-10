@@ -1,4 +1,4 @@
-trigger:
+git add azure-pipelines.yml templates/build.ymltrigger:
 - '*'
 
 pool:
